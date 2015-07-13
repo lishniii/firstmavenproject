@@ -9,6 +9,8 @@ public class App {
         DateTime today = new DateTime();
 
         DateTime tomorrow = today.plusDays(1);
+        
+        System.out.println("Dates");
 
         System.out.println(today.toString("yyyy-MMM-dd"));
 
