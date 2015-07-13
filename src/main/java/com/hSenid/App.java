@@ -12,8 +12,9 @@ public class App {
         
         System.out.println("Dates");
 
-        System.out.println(today.toString("yyyy-MMM-dd"));
+        System.out.println("Todays date is: "+today.toString("yyyy-MMM-dd"));
 
-        System.out.println(tomorrow.toString("yyyy-MMM-dd"));
+        System.out.println("Tomorrows date is: "+tomorrow.toString("yyyy-MMM-dd"));
+        
     }
 }
