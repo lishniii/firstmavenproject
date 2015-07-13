@@ -13,7 +13,5 @@ public class App {
         System.out.println(today.toString("yyyy-MMM-dd"));
 
         System.out.println(tomorrow.toString("yyyy-MMM-dd"));
-
-	System.out.println("Change by Hiran");
     }
 }
